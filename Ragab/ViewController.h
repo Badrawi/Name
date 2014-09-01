@@ -9,5 +9,10 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+{
+    UITextView *textview_;
+}
+@property(nonatomic,retain) IBOutlet UITextView *textview;
+-(IBAction)Button:(id)sender;
 
 @end

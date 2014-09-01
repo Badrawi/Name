@@ -14,6 +14,8 @@
 
 @implementation ViewController
 
+@synthesize textview=textview_;
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
@@ -24,6 +26,11 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+-(IBAction)Button:(id)sender
+{
+   textview_.text=@"How do you do?!!";
 }
 
 @end

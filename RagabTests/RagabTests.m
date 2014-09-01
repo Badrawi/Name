@@ -7,6 +7,10 @@
 //
 
 #import <XCTest/XCTest.h>
+#import <KIF/KIF.h>
+#import <KIFTestStepValidation.h>
+#import <Foundation/Foundation.h>
+#import "ViewController.h"
 
 @interface RagabTests : XCTestCase
 
@@ -28,7 +32,7 @@
 
 - (void)testExample
 {
-    XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
+    [tester tapViewWithAccessibilityLabel:@"do"];
 }
 
 @end
