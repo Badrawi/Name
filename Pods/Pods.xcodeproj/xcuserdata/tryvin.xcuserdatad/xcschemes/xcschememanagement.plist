@@ -3,15 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>SchemeUserState</key>
-	<dict/>
+	<dict>
+		<key>Pods-RagabTests-KIF.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-RagabTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>3342473C84BE4E1BA14D82F4</key>
+		<key>CD1D6B69B3AC4B458398BAB0</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>F5612C4B9AE14314B1F86BF0</key>
+		<key>FD66B57C98294931BC0313C4</key>
 		<dict>
 			<key>primary</key>
 			<true/>

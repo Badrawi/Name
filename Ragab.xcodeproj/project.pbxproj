@@ -56,7 +56,6 @@
 		41D5631419B489F200D826CC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		41D5631619B489F200D826CC /* RagabTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RagabTests.m; sourceTree = "<group>"; };
 		5ABC2E3AB44E4CCBB7F1D693 /* libPods-RagabTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RagabTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		66F3AC622E1D4FD38D107ED9 /* Pods-RagabTests.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RagabTests.xcconfig"; path = "Pods/Pods-RagabTests.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,7 +91,6 @@
 				41D5631019B489F200D826CC /* RagabTests */,
 				41D562EA19B489F200D826CC /* Frameworks */,
 				41D562E919B489F200D826CC /* Products */,
-				66F3AC622E1D4FD38D107ED9 /* Pods-RagabTests.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
@@ -444,7 +442,6 @@
 		};
 		41D5631E19B489F200D826CC /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 66F3AC622E1D4FD38D107ED9 /* Pods-RagabTests.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Ragab.app/Ragab";
 				FRAMEWORK_SEARCH_PATHS = (
@@ -467,7 +464,6 @@
 		};
 		41D5631F19B489F200D826CC /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 66F3AC622E1D4FD38D107ED9 /* Pods-RagabTests.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Ragab.app/Ragab";
 				FRAMEWORK_SEARCH_PATHS = (
