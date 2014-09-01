@@ -4,14 +4,14 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-RagabTests-KIF.xcscheme_^#shared#^_</key>
+		<key>Pods-RagabTests-KIF.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<true/>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>Pods-RagabTests.xcscheme_^#shared#^_</key>
+		<key>Pods-RagabTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<true/>
